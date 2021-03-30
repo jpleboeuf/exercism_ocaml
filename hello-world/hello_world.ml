@@ -1,1 +1,2 @@
-let hello = "Change me"
+let hello = "Hello, World!"
+
