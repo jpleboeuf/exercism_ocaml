@@ -1,7 +1,7 @@
 let (%) a b =
     let rem = a mod b in
-        if rem >= 0 then rem
-        else rem + b
+    if rem >= 0 then rem
+    else rem + b
     ;;
 
 let (%%) a b = (a % b) = 0;;
